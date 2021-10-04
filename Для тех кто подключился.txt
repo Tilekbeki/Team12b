@@ -1,0 +1,3 @@
+test
+скачивайте Smart Git
+по мне удобней чем tortoise git
